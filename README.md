@@ -1,6 +1,8 @@
 # Hi i'm drowsy
 Check out my website [thedrowsy.com](https://thedrowsy.com)
+
 Or take a peek at my game [Eternity](https://github.com/bcat1023/Eternity)
+
 Maybe you could take a look at my webtop [Blacktop OS](https://github.com/bcat1023/blacktop-os)
 
 ## Languages i'm fluent in
