@@ -6,7 +6,7 @@ Or take a peek at my game [Eternity](https://github.com/bcat1023/Eternity)
 Maybe you could take a look at my webtop [Blacktop OS](https://github.com/bcat1023/blacktop-os)
 
 ## Languages i'm fluent in
-![My Languages](https://skillicons.dev/icons?i=js,html,css,javascript,c,cpp,dotnet,nodejs,py)
+![My Languages](https://skillicons.dev/icons?i=js,html,css,c,cpp,dotnet,nodejs,py)
 ## Services I Use
 ![Services I use](https://skillicons.dev/icons?i=netlify,git,cloudflare)
 ## Frameworks I use
