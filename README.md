@@ -13,5 +13,3 @@ Maybe you could take a look at my webtop [Blacktop OS](https://github.com/bcat10
 ![Services I use](https://skillicons.dev/icons?i=netlify,git,cloudflare)
 ## Frameworks I use
 ![Services I use](https://skillicons.dev/icons?i=express)
-## Discord
-![](https://dcbadge.vercel.app/api/shield/717523777432584202?theme=discord-inverted)
