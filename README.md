@@ -1,15 +1,30 @@
-# Hi i'm drowsy
-Check out my website [thedrowsy.com](https://thedrowsy.com)
+<img src="https://placehold.co/800x200"></img>
+<hr>
+<br>
+<center>
+        <h1 style="border-bottom:0px;">Hi, im Nook.8081</h1>
+        <h2 style="border-bottom:0px;">Web Development is my hobby.</h2>
+        <hr>
+</center>
 
-Or take a peek at my game [Eternity](https://github.com/bcat1023/Eternity)
+## Currently im working on:
+* Currently im working on the new Nook Alley (to replace thedrowsy.com)
+* A secret project that will launch with Nook Alley
 
-Maybe you could take a look at my webtop [Blacktop OS](https://github.com/bcat1023/blacktop-os)
+## Currently im experimenting with:
+* Cloudflare Workers
+* Serverless functions
+* Algorithms
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+## Im also interested in:
+* Real Time Cyber Security
+    * Im taking an online course from NYU
+* Network Engineering
+    * Im taking an online course from Cisco
 
-## Languages i'm fluent in
-![My Languages](https://skillicons.dev/icons?i=js,html,css,c,cpp,dotnet,nodejs,py)
-## Services I Use
-![Services I use](https://skillicons.dev/icons?i=netlify,git,cloudflare)
-## Frameworks I use
-![Services I use](https://skillicons.dev/icons?i=express)
+<hr><br>
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,aws,bash,cloudflare,debian,bots,docker,dotnet,electron,express,figma,git,github,heroku,nginx,nodejs,npm,windows&theme=light)](https://skillicons.dev)
+
+<br>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bcat1023"></img></a>
