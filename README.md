@@ -1,6 +1,6 @@
-<img src="https://placehold.co/800x200"></img>
+<!--<img src="https://placehold.co/800x200"></img>
 <hr>
-<br>
+<br>-->
 <center>
         <h1 style="border-bottom:0px;">Hi, im Nook.8081</h1>
         <h2 style="border-bottom:0px;">Web Development is my hobby.</h2>
